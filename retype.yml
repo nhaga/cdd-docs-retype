@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: https://nhaga.github.io/python-workshop/
+url: https://nhaga.github.io/cddl-codegen-docs-retype/
 branding:
   title: cddl-codegen
   label: Docs
