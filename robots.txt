@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nhaga.github.io/cddl-codegen-docs-retype/sitemap.xml.gz
