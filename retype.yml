@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: https://nhaga.github.io/python-workshop/
+branding:
+  title: cddl-codegen
+  label: Docs
+  # logo: images/favicon.svg
+  colors:
+    label:
+      test: '#ff9828'
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  
